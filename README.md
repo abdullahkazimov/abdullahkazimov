@@ -5,4 +5,6 @@ Thanks for visiting my page. Let's both introduce ourselves...
 
 I love everything tech, business and lifestyle.
 
-![abdullahkazimov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahkazimov&theme=tokyonight&hide_border=true)
+Contact: abdullahkazimov@outlook.com
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdullahkazimov&theme=whatsapp-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
